@@ -15,7 +15,7 @@ img {
     box-sizing: border-box;
 }
 a {
-    color: $mainOrange;
+    color: blue;
 }
 button {
     border: none;
